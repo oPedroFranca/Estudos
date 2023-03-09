@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "roy",
+        "location": "india"
+    },
+    {
+        "id": 2,
+        "name": "sam",
+        "location": "wales"
+    },
+    {
+        "id": 7,
+        "name": "ii",
+        "location": "la"
+    },
+    {
+        "id": 8,
+        "name": "Shona",
+        "location": "LA"
+    },
+    {
+        "id": 9,
+        "name": "Shona",
+        "location": "LA"
+    }
+  ]
