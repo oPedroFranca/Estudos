@@ -4,9 +4,7 @@ const app = express();
 
 app.use(express.json());
 
-app.get("/clients", (req, res) => {
-  res.json(data);
-});
+
 
 app.get("/clients/:id", (req, res) => {
   const { id } = req.params;
