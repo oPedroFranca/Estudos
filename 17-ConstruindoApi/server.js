@@ -17,6 +17,3 @@ app.get("/clients/:id", (req, res) => {
   res.json(client);
 });
 
-app.listen(3000, () => {
-  console.log("Server is running");
-});
