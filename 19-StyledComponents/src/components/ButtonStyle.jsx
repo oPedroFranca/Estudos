@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Button = styled.button `
   width: 70px;
   height: 30px;
-  background-color: #282c34;
+  background-color: ${(prop) => prop.backgroundColor};
   color: white;
   cursor: pointer;
 

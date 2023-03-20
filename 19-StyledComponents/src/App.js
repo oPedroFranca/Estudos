@@ -18,8 +18,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>contador: {number}</p>
-        <Button onClick={handleIncrement}>+</Button>
-        <Button onClick={handleDecrement}>-</Button>
+        <Button  backgroundColor='black' onClick={handleIncrement}>+</Button>
+        <Button  backgroundColor='black' onClick={handleDecrement}>-</Button>
       </header>
     </div>
   );
